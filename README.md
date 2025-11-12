@@ -17,7 +17,5 @@ Saves a sample grid every epoch and a final **progress GIF**.
 
 ## Quickstart
 1. Open the notebook in Colab (badge above) → **Runtime > Change runtime type > GPU**.
-2. Download CelebA from Kaggle (two options provided in the notebook).
+2. Download CelebA from Kaggle .
 3. Run cells top to bottom. Outputs appear in `/content/dcgan_samples/` and `dcgan_progress.gif`.
-
-## Repo Structure (suggested)
