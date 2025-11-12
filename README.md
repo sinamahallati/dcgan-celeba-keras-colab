@@ -1,6 +1,8 @@
 # DCGAN on CelebA (Keras • Colab)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sinamahallati/<REPO_NAME>/blob/main/dcgan_celeba_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/sinamahallati/<REPO_NAME>/blob/main/dcgan_celeba_colab.ipynb
+)
 
 Colab-ready notebook to train a DCGAN on **CelebA (64×64)**.
 Includes a **speed mode**: mixed precision, XLA, cached `tf.data`, and limited steps per epoch.  
